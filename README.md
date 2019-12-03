@@ -5,8 +5,8 @@ ends with bottom/right position. Only moves towards right and down are allowed.
 
 # Code structure 
 
-- [Maxtrix.java](src/com/dreambroker/main/Matrix.java) contains the main source code. 
-- [RomanToDecimalTest.java](src/com/dreambroker/main/MatrixTest.java)  contains the test cases for the program. 
+- [Maxtrix.java](src/com/dreambroker/matrix/main/Matrix.java) contains the main source code. 
+- [RomanToDecimalTest.java](src/com/dreambroker/matrix/test/MatrixTest.java)  contains the test cases for the program. 
 
 # How use it? 
 The program is developed and tested with the latest version of Java (Java SE 13).  If your system does not have Java 
