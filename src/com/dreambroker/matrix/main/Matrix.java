@@ -98,6 +98,7 @@ public class Matrix {
 
         //defining 2D array to hold matrix data
         int[][] inputMatrix = new int[matrixRow][matrixColumn];
+
         // Enter Matrix Data
         enterMatrixData(scan, inputMatrix, matrixRow, matrixColumn);
 
